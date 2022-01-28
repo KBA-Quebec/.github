@@ -6,7 +6,7 @@ To keep track of what we have to do and what has been done! Hurray!
 # Specific objectives
 
 ## 0 - Classify work already done
-- [X] Put the KBAs started in the GitHub project
+- [ ] Put the KBAs started in the GitHub project
 - [ ] Divide plant only KBAs vs plant + other taxon
 - [ ] Search for other species near sites
 - [ ] Identify missing ressources / organization to contact
