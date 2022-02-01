@@ -6,11 +6,14 @@ To keep track of what we have to do and what has been done! Hurray!
 # Specific objectives
 
 ## 0 - Classify work already done
-- [ ] Put the KBAs started in the GitHub project
+- [ ] Create and evaluate issues for started KBAs in KBA_proposal
+- [ ] Put the proposal documents started in the GitHub repo
 - [ ] Divide plant only KBAs vs plant + other taxon
 - [ ] Search for other species near sites
 - [ ] Identify missing ressources / organization to contact
 - [ ] Make an outreach communication strategy
+    - [ ] Create template for newly contacted expert
+    - [ ] Create invitation template for both workshop
 
 ## 1 - Complete the KBAs started - March 31th
 - [ ] Complete the KBAs for which we have all the information
@@ -26,13 +29,13 @@ To keep track of what we have to do and what has been done! Hurray!
 ## 2 - Identify KBAs in Estrie
 - [ ] Contact expert of other taxon (plants already done)
 - [ ] Contact relevent organizations (inform + invite) - Organize presentations
-- [ ] Identify priliminary sites + species list
+- [ ] Identify preliminary sites + species list
 - [ ] Organize a workshop (Begin of April)
-  - [ ] Document each sites
-  - [ ] Build a species list without site identified
+  - [ ] Document each site
+  - [ ] Build a list of species without site identified
   - [ ] Invite experts + KBA team
   - [ ] Logistic (logging + transport)
-  - [ ] Shcedule + activities
+  - [ ] Schedule + activities
   - [ ] Budget
 - [ ] Worshop - Begin of April
 - [ ] Document and data treatment
@@ -45,10 +48,10 @@ To keep track of what we have to do and what has been done! Hurray!
 - [ ] Identify priliminary sites + species list
 - [ ] Organize a workshop (End of April)
   - [ ] Document each sites
-  - [ ] Build a species list without site identified
+  - [ ] Build a list of species without site identified
   - [ ] Invite experts + KBA team
   - [ ] Logistic (logging + transport)
-  - [ ] Shcedule + activities
+  - [ ] Schedule + activities
   - [ ] Budget
 - [ ] Worshop - End of April
 - [ ] Document and data treatment
