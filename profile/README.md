@@ -10,6 +10,7 @@ To keep track of what we have to do and what has been done! Hurray!
 - [ ] Divide plant only KBAs vs plant + other taxon
 - [ ] Search for other species near sites
 - [ ] Identify missing ressources / organization to contact
+- [ ] Make an outreach communication strategy
 
 ## 1 - Complete the KBAs started - March 31th
 - [ ] Complete the KBAs for which we have all the information
