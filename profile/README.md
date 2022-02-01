@@ -5,6 +5,8 @@ To keep track of what we have to do and what has been done! Hurray!
 
 # Specific objectives
 
+## -1 Create gantt diagram for deadline
+
 ## 0 - Classify work already done
 - [ ] Create and evaluate issues for started KBAs in KBA_proposal
 - [ ] Put the proposal documents started in the GitHub repo
