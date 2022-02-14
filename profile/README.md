@@ -8,11 +8,11 @@ To keep track of what we have to do and what has been done! Hurray!
 ## -1 Create gantt diagram for deadline
 
 ## 0 - Classify work already done
-- [ ] Create and evaluate issues for started KBAs in KBA_proposal
-- [ ] Put the proposal documents started in the GitHub repo
-- [ ] Divide plant only KBAs vs plant + other taxon
+- [x] Create and evaluate issues for started KBAs in KBA_proposal
+- [x] Put the proposal documents started in the GitHub repo
+- [x] Divide plant only KBAs vs plant + other taxon
 - [ ] Search for other species near sites
-- [ ] Identify missing ressources / organization to contact
+- [x] Identify missing ressources / organization to contact
 - [ ] Make an outreach communication strategy
     - [ ] Create template for newly contacted expert
     - [ ] Create invitation template for both workshop
